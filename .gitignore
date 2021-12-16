@@ -212,3 +212,9 @@ Kotlin Koans/Properties/Properties/task-info.yaml
 Kotlin Koans/Properties/Properties/task-remote-info.yaml
 
 Kotlin Koans/util/build/
+
+.idea/kotlin.iml
+
+.idea/modules.xml
+
+.idea/
