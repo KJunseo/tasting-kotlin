@@ -9,3 +9,5 @@
 학습하면서 익힌 문법 정리
 
 [바로가기](./Basic)
+
+- [Functions](./Basic/Functions.kt)
